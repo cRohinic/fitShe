@@ -1,8 +1,44 @@
-# React + Vite
+FitShe - MERN Stack GYM Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FitShe is a full-stack MERN ( Express.js, React.js, Node.js) application designed for managing gym memberships, tracking workouts, and integrating BMI calculations.
+🚀 Features
 
-Currently, two official plugins are available:
+    
+    📊 BMI Calculator
+    📅 Workout Tracking
+    💰  Payment Integration
+    📧 Email Notifications
+    📂 Admin Dashboard for user & gym management
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+
+    Frontend: React.js, Redux, Tailwind CSS
+    Backend: Node.js, Express.js
+    Authentication: JWT & bcrypt
+    
+
+🏗️ Installation
+Clone the Repository
+
+git clone https://github.com/cRohinic/FitShe.git
+cd FitShe
+
+Backend Setup
+
+cd backend
+npm install
+npm run dev
+
+Frontend Setup
+
+cd frontend
+npm install
+npm run dev
+
+📌 Usage
+
+    Add workout plans and track progress.
+    Use the BMI Calculator for fitness insights.
+    Admins can manage users and messages.
+
+
